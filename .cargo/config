@@ -1,0 +1,7 @@
+[target.thumbv6m-none-eabi]
+rustflags = [
+  "-C", "link-arg=-Tlayout.ld",
+]
+
+[build]
+target = "thumbv6m-none-eabi"

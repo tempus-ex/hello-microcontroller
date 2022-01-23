@@ -1,0 +1,4 @@
+[package]
+name = "hello-microcontroller"
+version = "0.1.0"
+edition = "2021"
